@@ -20,23 +20,27 @@ The project involves:
 ## Setup and Usage
 
 ### Cloning the Repository
+
     ```bash
     git clone https://github.com/yourusername/image-classification-comparison.git
+    
 **Running the Notebook**
+
     ```bash
     Copy code
     Navigate to the notebook provided in this repository: Ranga_Resnet_PartAandPartB.ipynb.
     This can be done in Google Colab or any environment that supports Jupyter Notebooks.
 
 **Upload Images:**
+
     ```bash
     Upload images to the sample_data/images/ directory as per the instructions in the notebook.
     Each class from ImageNet should have two images for a total of 20 images.
     Install Dependencies (if not using Google Colab):
 
 **Copy code**
-    ```bash
 
+    ```bash
     pip install torch torchvision
     
 **Run the Notebook:**
