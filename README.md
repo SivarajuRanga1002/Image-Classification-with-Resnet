@@ -22,10 +22,9 @@ The project involves:
 ### Cloning the Repository
     ```bash
     git clone https://github.com/yourusername/image-classification-comparison.git
-
 **Running the Notebook**
-  Open the Notebook:
     ```bash
+    Copy code
     Navigate to the notebook provided in this repository: Ranga_Resnet_PartAandPartB.ipynb.
     This can be done in Google Colab or any environment that supports Jupyter Notebooks.
 
